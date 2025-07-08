@@ -1,16 +1,36 @@
-# projeto_perguntas
+# \# Projeto Perguntas
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Aplicativo mobile interativo desenvolvido em Flutter, voltado para a apresentação sequencial de perguntas de múltipla escolha. Com visual moderno e intuitivo, o app permite que o usuário escolha respostas, acumule pontos e visualize um feedback final com base em seu desempenho.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📌 Funcionalidades Principais
+
+\- Exibição dinâmica de perguntas com múltiplas respostas
+
+\- Cálculo e registro da pontuação total conforme as escolhas
+
+\- Feedback personalizado baseado no desempenho final
+
+\- Reinício completo do questionário com um botão dedicado
+
+\- Interface responsiva e limpa, com componentes nativos do Flutter
+
+
+
+\## 🚀 Como executar
+
+
+
+```bash
+
+git clone https://github.com/leopoldokiala/projeto\_perguntas.git
+
+cd projeto\_perguntas
+
+flutter pub get
+
+flutter run
+
